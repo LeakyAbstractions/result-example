@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "result": {
+    "success": [
+      {
+        "id": 1,
+        "name": "Rantanplan",
+        "type": "DOG"
+      },
+      {
+        "id": 2,
+        "name": "Garfield",
+        "type": "CAT"
+      },
+      {
+        "id": 3,
+        "name": "Rocky",
+        "type": "DOG"
+      },
+      {
+        "id": 4,
+        "name": "Tweety",
+        "type": "BIRD"
+      },
+      {
+        "id": 5,
+        "name": "Dory",
+        "type": "FISH"
+      }
+    ]
+  }
+}
